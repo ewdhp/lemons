@@ -4,7 +4,7 @@
 
 ## Overview
 
-This Unity test project is designed to validate that Unity works correctly with .NET 8 on Linux. It includes various test scripts that exercise different aspects of Unity and .NET functionality.
+This Unity test project is designed to validate that Unity works correctly with .NET 8 on Linux. It includes various test scripts that exercise different aspects of Unity and .NET.
 
 ## Test Scripts Included
 
